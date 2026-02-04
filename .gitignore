@@ -72,3 +72,23 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+
+
+# Android
+Build/Android/bin/
+Build/Android/gradle/
+*.apk
+*.aab
+*.keystore
+
+# Logs & Temp
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
