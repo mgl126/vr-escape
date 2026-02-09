@@ -22,7 +22,9 @@
 				"C:/Users/Mario/Documents/Unreal Projects/vr-escape/ProyectoRV/Content/EscapeRoom/Materials/M_Color0.uasset",
 				"C:/Users/Mario/Documents/Unreal Projects/vr-escape/ProyectoRV/Content/EscapeRoom/Blueprints/Simon_LevelStructure.uasset",
 				"C:/Users/Mario/Documents/Unreal Projects/vr-escape/ProyectoRV/Content/EscapeRoom/Blueprints/BP_Simon.uasset",
-				"C:/Users/Mario/Documents/Unreal Projects/vr-escape/ProyectoRV/Content/EscapeRoom/Audio/SFX/Error.uasset"
+				"C:/Users/Mario/Documents/Unreal Projects/vr-escape/ProyectoRV/Content/EscapeRoom/Audio/SFX/Error.uasset",
+				"C:/Users/Mario/Documents/Unreal Projects/vr-escape/ProyectoRV/Content/EscapeRoom/Blueprints/Interfaces/BPI_Interact.uasset",
+				"C:/Users/Mario/Documents/Unreal Projects/vr-escape/ProyectoRV/Content/EscapeRoom/Blueprints/Interfaces/BPI_Player.uasset"
 			]
 		}
 	]
